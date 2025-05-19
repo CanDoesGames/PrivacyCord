@@ -18,5 +18,5 @@ V1 (Aka: the effortless version): https://candoesgames.github.io/PrivacyWebhook/
 Version 0 (Concept edition): https://candoesgames.github.io/PrivacyWebhook/concept.html
 
 # Copyright ©️: 
-**This project uses the Apache License 2.0**
+This project is licensed under the [Apache License 2.0](LICENSE).
 
